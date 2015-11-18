@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DroidAntivirus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="v1">Version1.0</string>
+
+    <!--  -->
+    <string name="scan">Scan</string>
+    <string name="quick_scan">Quick Scan</string>
+    <string name="full_scan">Full Scan</string>
+
+</resources>
